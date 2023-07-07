@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+# TO-DO refactor everything out into functions, or more realistically a class.
+# Attempted functions already, but I must have missed something as shaders/something was causing HEAVY stuttering and rubberbanding.
 import sys
 import subprocess
 import argparse
